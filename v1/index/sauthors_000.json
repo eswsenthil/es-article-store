@@ -1,0 +1,310 @@
+[
+  {
+    "localized_names" : {
+      "en" : "Aadhi Sankarar",
+      "ta" : "ஆதிசங்கரர்"
+    },
+    "sauthor_id" : "aadhisankarar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Aandaal",
+      "ta" : "ஆண்டாள்"
+    },
+    "sauthor_id" : "aandaal"
+  },
+  {
+    "localized_names" : {
+      "en" : "Abiraami Pattar",
+      "ta" : "அபிராமி பட்டர்"
+    },
+    "sauthor_id" : "abiraami_pattar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Agasthiya",
+      "ta" : "அகஸ்தியர்"
+    },
+    "sauthor_id" : "agasthia"
+  },
+  {
+    "localized_names" : {
+      "en" : "Appar",
+      "ta" : "திருநாவுக்கரசர்"
+    },
+    "sauthor_id" : "appar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Arunagiri Nathar",
+      "ta" : "அருணகிரி நாதர்"
+    },
+    "sauthor_id" : "arunagirinaathar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Avvaiyaar",
+      "ta" : "ஔவையார்"
+    },
+    "sauthor_id" : "avvaiyaar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Barathiyar",
+      "ta" : "பரார்சியார்"
+    },
+    "sauthor_id" : "barathiyar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Barathidasan",
+      "ta" : "பாரதிதாசன்"
+    },
+    "sauthor_id" : "barathidasan"
+  },
+  {
+    "localized_names" : {
+      "en" : "B.M.J.Dhyriam",
+      "ta" : "B.M.J தைரியம்"
+    },
+    "sauthor_id" : "bmjdhyriam"
+  },
+  {
+    "localized_names" : {
+      "en" : "Nigamantha Desikan",
+      "ta" : "நிகமாந்த தேசிகன்"
+    },
+    "sauthor_id" : "desigan_nigamantha"
+  },
+  {
+    "localized_names" : {
+      "en" : "Devaraja Swamigal",
+      "ta" : "ஸ்ரீ தேவராய சுவாமிகள்"
+    },
+    "sauthor_id" : "devaraja_swamigal"
+  },
+  {
+    "localized_names" : {
+      "en" : "Dhurkkai Siththar",
+      "ta" : "ஸ்ரீ துர்க்கை சித்தர்"
+    },
+    "sauthor_id" : "dhurkkai_siththar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Gabriel",
+      "ta" : "காபிரியேல் உபதேசியார்"
+    },
+    "sauthor_id" : "gabriel"
+  },
+  {
+    "localized_names" : {
+      "en" : "C.P.Gnanamani",
+      "ta" : "சி.பி. ஞானமணி"
+    },
+    "sauthor_id" : "gnanamani_cp"
+  },
+  {
+    "localized_names" : {
+      "en" : "Kalakkadu Somu",
+      "ta" : "களக்காடு சோமு"
+    },
+    "sauthor_id" : "kalakkaadu_somu"
+  },
+  {
+    "localized_names" : {
+      "en" : "Kadayanallur Muhammed Kasim",
+      "ta" : "கடையநல்லூர் முஹம்மத் காஸிம்"
+    },
+    "sauthor_id" : "kadayanallur_muhammed_kaasim"
+  },
+  {
+    "localized_names" : {
+      "en" : "Kalpana Dasan",
+      "ta" : "கல்பனாதாசன்"
+    },
+    "sauthor_id" : "kalpanaa_dhaasan"
+  },
+  {
+    "localized_names" : {
+      "en" : "Kambankudi Kulaththu Iyer",
+      "ta" : "கம்பன்குடி குலத்து ஐயர்"
+    },
+    "sauthor_id" : "kambankudi_kulaththu_iyer"
+  },
+  {
+    "localized_names" : {
+      "en" : "Kavikko Abdul Rahman",
+      "ta" : "கவிக்கோ அப்துல் ரஹ்மான்"
+    },
+    "sauthor_id" : "kavikko_abdul_rahman"
+  },
+  {
+    "localized_names" : {
+      "en" : "Kavitha Remi",
+      "ta" : "கவிதா ரெமி"
+    },
+    "sauthor_id" : "kavitha_remi"
+  },
+  {
+    "localized_names" : {
+      "en" : "Krishna Pillai",
+      "ta" : "கிருஷ்ணப்பிள்ளை"
+    },
+    "sauthor_id" : "krishnapillai"
+  },
+  {
+    "localized_names" : {
+      "en" : "Maanicka Vaasagar",
+      "ta" : "மாணிக்கவாசகர்"
+    },
+    "sauthor_id" : "maanicka_vaasagar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Manonmaniam Sundaram Pillai",
+      "ta" : "மனோன்மணியம் சுந்தரம் பிள்ளை"
+    },
+    "sauthor_id" : "manonmaniam"
+  },
+  {
+    "localized_names" : {
+      "en" : "M.B.Srinivasan team",
+      "ta" : "மானாமதுரை பாலகிருஷ்ணன் ஸ்ரீநிவாசன் குழு"
+    },
+    "sauthor_id" : "mbsrinivasanco"
+  },
+  {
+    "localized_names" : {
+      "en" : "M.Mehtha",
+      "ta" : "மு.மேத்தா"
+    },
+    "sauthor_id" : "mmehta"
+  },
+  {
+    "localized_names" : {
+      "en" : "Nagore Hanifa",
+      "ta" : "நாகூர் ஹனிஃபா"
+    },
+    "sauthor_id" : "nagore_hanifa"
+  },
+  {
+    "localized_names" : {
+      "en" : "PadmaDevan",
+      "ta" : "பத்மதேவன்"
+    },
+    "sauthor_id" : "padmadevan"
+  },
+  {
+    "localized_names" : {
+      "en" : "Paamban Swamigal",
+      "ta" : "ஸ்ரீமத் பாம்பன் குமரகுருதாச சுவாமிகள்"
+    },
+    "sauthor_id" : "paamban_saamigal"
+  },
+  {
+    "localized_names" : {
+      "en" : "P. M. Kamaal",
+      "ta" : "P. M. கமால்"
+    },
+    "sauthor_id" : "pmkamaal"
+  },
+  {
+    "localized_names" : {
+      "en" : "Periyaalwar",
+      "ta" : "பெரியாழ்வார்"
+    },
+    "sauthor_id" : "periyaalwar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Senkathirvanan",
+      "ta" : "செங்கதிர்வாணன்"
+    },
+    "sauthor_id" : "senkathirvaanan"
+  },
+  {
+    "localized_names" : {
+      "en" : "Sampanthar",
+      "ta" : "திருஞானசம்பந்தர்"
+    },
+    "sauthor_id" : "sampanthar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Vethamuthu Santiago",
+      "ta" : "வேதமுத்து சந்தியாகோ"
+    },
+    "sauthor_id" : "santiago_vethamuthu"
+  },
+  {
+    "localized_names" : {
+      "en" : "Shafiyed Kathiriya",
+      "ta" : "ஷபியத் காதிரியா"
+    },
+    "sauthor_id" : "shafiyed_kathiriya"
+  },
+  {
+    "localized_names" : {
+      "en" : "Sivavaakkiyar",
+      "ta" : "சிவவாக்கியார்"
+    },
+    "sauthor_id" : "sivavaakkiyar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Sundharar",
+      "ta" : "சுந்தரர்"
+    },
+    "sauthor_id" : "sundharar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Rabindranath Tagore",
+      "ta" : "மகாகவி இரவீந்திரநாத தாகூர்"
+    },
+    "sauthor_id" : "tagore"
+  },
+  {
+    "localized_names" : {
+      "en" : "Tulsidas",
+      "ta" : "துளசிதாசர்"
+    },
+    "sauthor_id" : "tulsidas"
+  },
+  {
+    "localized_names" : {
+      "en" : "Umaruppulavar",
+      "ta" : "உமறுப்புலவர்"
+    },
+    "sauthor_id" : "umaruppulavar"
+  },
+  {
+    "localized_names" : {
+      "en" : "Not identified",
+      "ta" : "தகவல் கிடைக்கவில்லை"
+    },
+    "sauthor_id" : "unidentified"
+  },
+  {
+    "localized_names" : {
+      "en" : "Veda Vyas",
+      "ta" : "வேதவியாசர்"
+    },
+    "sauthor_id" : "vedhavyas"
+  },
+  {
+    "localized_names" : {
+      "en" : "E.Yogalskshmi",
+      "ta" : "ஈ.யோகலக்ஷ்மி"
+    },
+    "sauthor_id" : "yogalakshmi_eswaran"
+  },
+  {
+    "localized_names" : {
+      "en" : "Neiyoor T. Yoseph",
+      "ta" : "நெய்யூர் த.யோசேப்பு"
+    },
+    "sauthor_id" : "yoseph_neiyoor"
+  }
+]
