@@ -50,17 +50,17 @@
   },
   {
     "localized_names" : {
-      "en" : "Barathiyar",
-      "ta" : "பரார்சியார்"
+      "en" : "Barathiar",
+      "ta" : "பாரதியார்"
     },
-    "sauthor_id" : "barathiyar"
+    "sauthor_id" : "paarathiyaar"
   },
   {
     "localized_names" : {
       "en" : "Barathidasan",
       "ta" : "பாரதிதாசன்"
     },
-    "sauthor_id" : "barathidasan"
+    "sauthor_id" : "paarathydhaasan"
   },
   {
     "localized_names" : {
@@ -106,6 +106,13 @@
   },
   {
     "localized_names" : {
+      "en" : "Kabilar",
+      "ta" : "கபிலர்"
+    },
+    "sauthor_id" : "kabilar"
+  },
+  {
+    "localized_names" : {
       "en" : "Kalakkadu Somu",
       "ta" : "களக்காடு சோமு"
     },
@@ -134,6 +141,13 @@
   },
   {
     "localized_names" : {
+      "en" : "Kambar",
+      "ta" : "கம்பர்"
+    },
+    "sauthor_id" : "kambar"
+  },
+  {
+    "localized_names" : {
       "en" : "Kavikko Abdul Rahman",
       "ta" : "கவிக்கோ அப்துல் ரஹ்மான்"
     },
@@ -152,6 +166,13 @@
       "ta" : "கிருஷ்ணப்பிள்ளை"
     },
     "sauthor_id" : "krishnapillai"
+  },
+  {
+    "localized_names" : {
+      "en" : "Kumaraguruparar",
+      "ta" : "குமரகுருபரர்"
+    },
+    "sauthor_id" : "kumaraguruparar"
   },
   {
     "localized_names" : {
@@ -180,6 +201,13 @@
       "ta" : "மு.மேத்தா"
     },
     "sauthor_id" : "mmehta"
+  },
+  {
+    "localized_names" : {
+      "en" : "Namboothanar",
+      "ta" : "நம்பூதனார்"
+    },
+    "sauthor_id" : "namboothanaar"
   },
   {
     "localized_names" : {
@@ -292,6 +320,13 @@
       "ta" : "வேதவியாசர்"
     },
     "sauthor_id" : "vedhavyas"
+  },
+  {
+    "localized_names" : {
+      "en" : "Veerai Kaviraasa Pandithar",
+      "ta" : "கன்னலஞ்சிலை வேள் எனும் கவிராச பண்டிதர்"
+    },
+    "sauthor_id" : "veerai_kaviraasa_pandithar"
   },
   {
     "localized_names" : {

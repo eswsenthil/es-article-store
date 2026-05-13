@@ -1,106 +1,15 @@
 [
   {
-    "article_id" : "aiyappan_108_potri",
+    "article_id" : "aadhi_pithaa_kumaaran",
     "author_ids" : [
-      "unidentified"
+      "gabriel"
     ],
     "localized_titles" : {
-      "en" : "Aiyappan 108 Potri",
-      "ta" : "ஐயப்பன் 108 சரணங்கள்"
+      "en" : "Aadhi Pitha Kumaaran",
+      "ta" : "ஆதி பிதா குமாரன்"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/aiyappan_108_potri.txt"
-    }
-  },
-  {
-    "article_id" : "pallaandu",
-    "author_ids" : [
-      "periyaalwar"
-    ],
-    "localized_titles" : {
-      "en" : "Pallaandu",
-      "ta" : "திருப்பல்லாண்டு"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/pallaandu.txt"
-    }
-  },
-  {
-    "article_id" : "vishnu_sahasranaamam",
-    "author_ids" : [
-      "vedhavyas"
-    ],
-    "localized_titles" : {
-      "en" : "Vishnu-Sahasranaamam",
-      "ta" : "விஷ்ணு ஸஹஸ்ரநாமம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/vishnu_sahasranaamam.txt"
-    }
-  },
-  {
-    "article_id" : "sivavaakkiyam_part_1",
-    "author_ids" : [
-      "sivavaakkiyar"
-    ],
-    "localized_titles" : {
-      "en" : "Sivavaakkiyam 1-150",
-      "ta" : "சிவவாக்கியம் 1-150"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/sivavaakkiyam_part_1.txt"
-    }
-  },
-  {
-    "article_id" : "lalitha_navaraththina_maalai",
-    "author_ids" : [
-      "agasthia"
-    ],
-    "localized_titles" : {
-      "en" : "Lalitha Navratna Maalai",
-      "ta" : "ஸ்ரீ லலிதா நவரத்தின மாலை"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/lalitha_navaraththina_maalai.txt"
-    }
-  },
-  {
-    "article_id" : "sinthaamal_arulvaai",
-    "author_ids" : [
-      "pmkamaal"
-    ],
-    "localized_titles" : {
-      "en" : "Sinthaamal Arulvaai",
-      "ta" : "சிந்தாமல் அருள்புரிவாய்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/sinthaamal_arulvaai.txt"
-    }
-  },
-  {
-    "article_id" : "iraivanidam",
-    "author_ids" : [
-      "nagore_hanifa"
-    ],
-    "localized_titles" : {
-      "en" : "Iraivanidam",
-      "ta" : "இறைவனிடம் கையேந்துங்கள்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/iraivanidam.txt"
-    }
-  },
-  {
-    "article_id" : "sivavaakkiyam_part_2",
-    "author_ids" : [
-      "sivavaakkiyar"
-    ],
-    "localized_titles" : {
-      "en" : "Sivavaakkiyam 151-300",
-      "ta" : "சிவவாக்கியம் 151-300"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/sivavaakkiyam_part_2.txt"
+      "ta" : "v1/data/sarticles_000/ta/aadhi_pithaa_kumaaran.txt"
     }
   },
   {
@@ -117,172 +26,29 @@
     }
   },
   {
-    "article_id" : "harivaraasanam",
+    "article_id" : "abiraami_anthaathi",
     "author_ids" : [
-      "kambankudi_kulaththu_iyer"
+      "abiraami_pattar"
     ],
     "localized_titles" : {
-      "en" : "Harivaraasanam",
-      "ta" : "ஹரிஹராத்மஜம்"
+      "en" : "Abirami Anthaathi",
+      "ta" : "அபிராமி அந்தாதி"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/harivaraasanam.txt"
+      "ta" : "v1/data/sarticles_000/ta/abiraami_anthaathi.txt"
     }
   },
   {
-    "article_id" : "velankanni_suprabat",
-    "author_ids" : [
-      "kavitha_remi"
-    ],
-    "localized_titles" : {
-      "en" : "Velankanni Suprabat",
-      "ta" : "வேளாங்கண்ணி மாதா சுப்ரபாதம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/velankanni_suprabat.txt"
-    }
-  },
-  {
-    "article_id" : "thiruppugal",
-    "author_ids" : [
-      "arunagirinaathar"
-    ],
-    "localized_titles" : {
-      "en" : "Thirupugazh",
-      "ta" : "திருப்புகழ்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/thiruppugal.txt"
-    }
-  },
-  {
-    "article_id" : "deva_pitha",
-    "author_ids" : [
-      "yoseph_neiyoor"
-    ],
-    "localized_titles" : {
-      "en" : "DevaPitha",
-      "ta" : "தேவபிதா"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/deva_pitha.txt"
-    }
-  },
-  {
-    "article_id" : "lingashtakam",
-    "author_ids" : [
-      "aadhisankarar"
-    ],
-    "localized_titles" : {
-      "en" : "Lingashtakam",
-      "ta" : "லிங்காஷ்டகம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/lingashtakam.txt"
-    }
-  },
-  {
-    "article_id" : "sivavaakkiyam_part_3",
-    "author_ids" : [
-      "sivavaakkiyar"
-    ],
-    "localized_titles" : {
-      "en" : "Sivavaakkiyam 301-450",
-      "ta" : "சிவவாக்கியம் 301-450"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/sivavaakkiyam_part_3.txt"
-    }
-  },
-  {
-    "article_id" : "thiruppaavai",
-    "author_ids" : [
-      "aandaal"
-    ],
-    "localized_titles" : {
-      "en" : "Thiruppaavai",
-      "ta" : "திருப்பாவை"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/thiruppaavai.txt"
-    }
-  },
-  {
-    "article_id" : "sai_chalisa",
+    "article_id" : "aiyappan_108_potri",
     "author_ids" : [
       "unidentified"
     ],
     "localized_titles" : {
-      "en" : "Sai Baba Chalisa",
-      "ta" : "சாய் பாபா சாலிசா"
+      "en" : "Aiyappan 108 Potri",
+      "ta" : "ஐயப்பன் 108 சரணங்கள்"
     },
     "txt_uri_records" : {
-      "en" : "v1/data/sarticles_000/en/sai_chalisa.txt"
-    }
-  },
-  {
-    "article_id" : "sudharsana_ashtagam",
-    "author_ids" : [
-      "desigan_nigamantha"
-    ],
-    "localized_titles" : {
-      "en" : "Sudharshana Ashtagam",
-      "ta" : "சுதர்சனர் அஷ்டகம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/sudharsana_ashtagam.txt"
-    }
-  },
-  {
-    "article_id" : "sivapuraanam_thiruvaasagam",
-    "author_ids" : [
-      "maanicka_vaasagar"
-    ],
-    "localized_titles" : {
-      "en" : "Sivapuraanam(Thiruvaasagam)",
-      "ta" : "சிவபுராணம் (திருவாசகம்)"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/sivapuraanam_thiruvaasagam.txt"
-    }
-  },
-  {
-    "article_id" : "paarathiyaar_omsakthi",
-    "author_ids" : [
-      "barathiyar"
-    ],
-    "localized_titles" : {
-      "en" : "Om Sakthi Om Sakthi Om",
-      "ta" : "ஓம்சக்தி ஓம்சக்தி ஓம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_omsakthi.txt"
-    }
-  },
-  {
-    "article_id" : "kodukkiren",
-    "author_ids" : [
-      "kavikko_abdul_rahman"
-    ],
-    "localized_titles" : {
-      "en" : "Kodukkiren",
-      "ta" : "கொடுக்கிறேன்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/kodukkiren.txt"
-    }
-  },
-  {
-    "article_id" : "thaiyendru",
-    "author_ids" : [
-      "unidentified"
-    ],
-    "localized_titles" : {
-      "en" : "Thaiyendru",
-      "ta" : "தாயென்று சொல்ல யாருண்டு"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/thaiyendru.txt"
+      "ta" : "v1/data/sarticles_000/ta/aiyappan_108_potri.txt"
     }
   },
   {
@@ -299,158 +65,16 @@
     }
   },
   {
-    "article_id" : "mahisaasura_marthini",
+    "article_id" : "anbe_prathanam",
     "author_ids" : [
-      "aadhisankarar"
+      "gnanamani_cp"
     ],
     "localized_titles" : {
-      "en" : "Mahisasura Mardhini",
-      "ta" : "மகிஷாசுரமர்த்தினி ஸ்லோகம்"
+      "en" : "Anbe Prathanam",
+      "ta" : "அன்பே பிரதானம் சகோதர"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/mahisaasura_marthini.txt"
-    }
-  },
-  {
-    "article_id" : "maanukku",
-    "author_ids" : [
-      "umaruppulavar"
-    ],
-    "localized_titles" : {
-      "en" : "Maanukku",
-      "ta" : "மானுக்குப் பிணை நின்ற படலம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/maanukku.txt"
-    }
-  },
-  {
-    "article_id" : "saththaai_nishkalamaai",
-    "author_ids" : [
-      "krishnapillai"
-    ],
-    "localized_titles" : {
-      "en" : "Saththai Nishkalamaai",
-      "ta" : "சத்தாய் நிஷ்களமாய்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/saththaai_nishkalamaai.txt"
-    }
-  },
-  {
-    "article_id" : "kind_to_women",
-    "author_ids" : [
-      "yogalakshmi_eswaran"
-    ],
-    "localized_titles" : {
-      "en" : "Be Kind to Women"
-    },
-    "txt_uri_records" : {
-      "en" : "v1/data/sarticles_000/en/kind_to_women.txt"
-    }
-  },
-  {
-    "article_id" : "kolaru_pathippagam",
-    "author_ids" : [
-      "sampanthar"
-    ],
-    "localized_titles" : {
-      "en" : "Kolaru-Pathippagam",
-      "ta" : "கோளறு திருப்பதிகம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/kolaru_pathippagam.txt"
-    }
-  },
-  {
-    "article_id" : "kanthar_sasti_kavasam",
-    "author_ids" : [
-      "devaraja_swamigal"
-    ],
-    "localized_titles" : {
-      "en" : "Vinaayagar Agaval",
-      "ta" : "விநாயகர் அகவல்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/kanthar_sasti_kavasam.txt"
-    }
-  },
-  {
-    "article_id" : "dhukka_nivarana_ashtagam",
-    "author_ids" : [
-      "dhurkkai_siththar"
-    ],
-    "localized_titles" : {
-      "en" : "Dhukka Nivarana Ashtagam",
-      "ta" : "துக்க நிவாரண அஷ்டகம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/dhukka_nivarana_ashtagam.txt"
-    }
-  },
-  {
-    "article_id" : "annam_paalikkum",
-    "author_ids" : [
-      "appar"
-    ],
-    "localized_titles" : {
-      "en" : "Annam Paalikkum",
-      "ta" : "அன்னம் பாலிக்குந்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/annam_paalikkum.txt"
-    }
-  },
-  {
-    "article_id" : "soolai_theertha_pathigam",
-    "author_ids" : [
-      "appar"
-    ],
-    "localized_titles" : {
-      "en" : "Soolai Theertha Pathigam",
-      "ta" : "தேவாரம்-சூலை நோய் தீர்த்த போது அருளிய திருப்பதிகம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/soolai_theertha_pathigam.txt"
-    }
-  },
-  {
-    "article_id" : "kanagathaaraa_sthothram",
-    "author_ids" : [
-      "aadhisankarar"
-    ],
-    "localized_titles" : {
-      "en" : "Kanakathara Sthothram",
-      "ta" : "கனகதாரா ஸ்தோத்திரம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/kanagathaaraa_sthothram.txt"
-    }
-  },
-  {
-    "article_id" : "hanuman_chalisa",
-    "author_ids" : [
-      "tulsidas"
-    ],
-    "localized_titles" : {
-      "en" : "108 Varalakshmi Amman Potri",
-      "ta" : "வரலட்சுமி 108 போற்றி"
-    },
-    "txt_uri_records" : {
-      "en" : "v1/data/sarticles_000/en/hanuman_chalisa.txt"
-    }
-  },
-  {
-    "article_id" : "vinaayagar_agaval",
-    "author_ids" : [
-      "avvaiyaar"
-    ],
-    "localized_titles" : {
-      "en" : "Vinaayagar Agaval",
-      "ta" : "விநாயகர் அகவல்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/vinaayagar_agaval.txt"
+      "ta" : "v1/data/sarticles_000/ta/anbe_prathanam.txt"
     }
   },
   {
@@ -467,16 +91,29 @@
     }
   },
   {
-    "article_id" : "varalakshmi_108_potri",
+    "article_id" : "annam_paalikkum",
     "author_ids" : [
-      "unidentified"
+      "appar"
     ],
     "localized_titles" : {
-      "en" : "108 Varalakshmi Amman Potri",
-      "ta" : "வரலட்சுமி 108 போற்றி"
+      "en" : "Annam Paalikkum",
+      "ta" : "அன்னம் பாலிக்குந்"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/varalakshmi_108_potri.txt"
+      "ta" : "v1/data/sarticles_000/ta/annam_paalikkum.txt"
+    }
+  },
+  {
+    "article_id" : "bhaja_govindham",
+    "author_ids" : [
+      "aadhisankarar"
+    ],
+    "localized_titles" : {
+      "en" : "Bhaja Govindham",
+      "ta" : "பஜ கோவிந்தம் (மோஹ முத்கரம்)"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/bhaja_govindham.txt"
     }
   },
   {
@@ -493,159 +130,29 @@
     }
   },
   {
-    "article_id" : "vinthai",
+    "article_id" : "deva_pitha",
     "author_ids" : [
-      "santiago_vethamuthu"
+      "yoseph_neiyoor"
     ],
     "localized_titles" : {
-      "en" : "Vinthai  kiristhaasu  Raja",
-      "ta" : "விந்தை கிறிஸ்தேசு ராஜா!"
+      "en" : "DevaPitha",
+      "ta" : "தேவபிதா"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/vinthai.txt"
+      "ta" : "v1/data/sarticles_000/ta/deva_pitha.txt"
     }
   },
   {
-    "article_id" : "navagraha_paadalkal",
-    "author_ids" : [
-      "unidentified"
-    ],
-    "localized_titles" : {
-      "en" : "Navagraha Paadalkal",
-      "ta" : "நவகிரகப் பாடல்கள்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/navagraha_paadalkal.txt"
-    }
-  },
-  {
-    "article_id" : "aadhi_pithaa_kumaaran",
-    "author_ids" : [
-      "gabriel"
-    ],
-    "localized_titles" : {
-      "en" : "Aadhi Pitha Kumaaran",
-      "ta" : "ஆதி பிதா குமாரன்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/aadhi_pithaa_kumaaran.txt"
-    }
-  },
-  {
-    "article_id" : "raahukaala_durga_ashtagam",
+    "article_id" : "dhukka_nivarana_ashtagam",
     "author_ids" : [
       "dhurkkai_siththar"
     ],
     "localized_titles" : {
-      "en" : "Rahu Kaala Durga Ashtagam",
-      "ta" : "ராகுகால துர்க்கை அம்மனின் அஷ்டகம்"
+      "en" : "Dhukka Nivarana Ashtagam",
+      "ta" : "துக்க நிவாரண அஷ்டகம்"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/raahukaala_durga_ashtagam.txt"
-    }
-  },
-  {
-    "article_id" : "abiraami_anthaathi",
-    "author_ids" : [
-      "abiraami_pattar"
-    ],
-    "localized_titles" : {
-      "en" : "Abirami Anthaathi",
-      "ta" : "அபிராமி அந்தாதி"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/abiraami_anthaathi.txt"
-    }
-  },
-  {
-    "article_id" : "nayagam_oru_kaaviyam_extract_1",
-    "author_ids" : [
-      "mmehta"
-    ],
-    "localized_titles" : {
-      "en" : "Naayagam Oru Kaaviyam Extract 1",
-      "ta" : "நாயகம் ஒரு காவியம் - சில வரிகள்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/nayagam_oru_kaaviyam_extract_1.txt"
-    }
-  },
-  {
-    "article_id" : "pallikattu_valinadai",
-    "author_ids" : [
-      "unidentified"
-    ],
-    "localized_titles" : {
-      "en" : "Pallikattu Valinadai",
-      "ta" : "சாமியே - ஐயப்போ"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/pallikattu_valinadai.txt"
-    }
-  },
-  {
-    "article_id" : "simmaanthu",
-    "author_ids" : [
-      "sundharar"
-    ],
-    "localized_titles" : {
-      "en" : "Simmaanthu",
-      "ta" : "சிம்மாந்து"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/simmaanthu.txt"
-    }
-  },
-  {
-    "article_id" : "thodudaya_seviyan",
-    "author_ids" : [
-      "sampanthar"
-    ],
-    "localized_titles" : {
-      "en" : "Thodudaya Seviyan",
-      "ta" : "தோடுடைய செவியன்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/thodudaya_seviyan.txt"
-    }
-  },
-  {
-    "article_id" : "ganapathiyaam_ganapathiyaam",
-    "author_ids" : [
-      "padmadevan"
-    ],
-    "localized_titles" : {
-      "en" : "Ganapathiyaam Ganapathiyaam",
-      "ta" : "கணபதியாம் கணபதியாம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/ganapathiyaam_ganapathiyaam.txt"
-    }
-  },
-  {
-    "article_id" : "kanivudan_mozhi",
-    "author_ids" : [
-      "kadayanallur_muhammed_kaasim"
-    ],
-    "localized_titles" : {
-      "en" : "Kanivudan Mozhi",
-      "ta" : "கனிவுடன் மொழிந்திடுவோம்"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/kanivudan_mozhi.txt"
-    }
-  },
-  {
-    "article_id" : "raksharaksha",
-    "author_ids" : [
-      "kalpanaa_dhaasan"
-    ],
-    "localized_titles" : {
-      "en" : "Raksha Raksha Jagan Maathaa",
-      "ta" : "ரக்க்ஷ ரக்க்ஷ"
-    },
-    "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/raksharaksha.txt"
+      "ta" : "v1/data/sarticles_000/ta/dhukka_nivarana_ashtagam.txt"
     }
   },
   {
@@ -662,6 +169,71 @@
     }
   },
   {
+    "article_id" : "ganapathiyaam_ganapathiyaam",
+    "author_ids" : [
+      "padmadevan"
+    ],
+    "localized_titles" : {
+      "en" : "Ganapathiyaam Ganapathiyaam",
+      "ta" : "கணபதியாம் கணபதியாம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/ganapathiyaam_ganapathiyaam.txt"
+    }
+  },
+  {
+    "article_id" : "hanuman_chalisa",
+    "author_ids" : [
+      "tulsidas"
+    ],
+    "localized_titles" : {
+      "en" : "Hanuman Chalisa",
+      "ta" : "ஹனுமான் சாலிசா"
+    },
+    "txt_uri_records" : {
+      "en" : "v1/data/sarticles_000/en/hanuman_chalisa.txt"
+    }
+  },
+  {
+    "article_id" : "harivaraasanam",
+    "author_ids" : [
+      "kambankudi_kulaththu_iyer"
+    ],
+    "localized_titles" : {
+      "en" : "Harivaraasanam",
+      "ta" : "ஹரிஹராத்மஜம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/harivaraasanam.txt"
+    }
+  },
+  {
+    "article_id" : "hayagreeva_manthra",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Hayagreeva Mantra",
+      "ta" : "ஹயக்ரீவர் மந்திரம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/hayagreeva_manthra.txt"
+    }
+  },
+  {
+    "article_id" : "iraivanidam",
+    "author_ids" : [
+      "nagore_hanifa"
+    ],
+    "localized_titles" : {
+      "en" : "Iraivanidam",
+      "ta" : "இறைவனிடம் கையேந்துங்கள்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/iraivanidam.txt"
+    }
+  },
+  {
     "article_id" : "jayajayadevi",
     "author_ids" : [
       "kalakkaadu_somu"
@@ -675,16 +247,93 @@
     }
   },
   {
-    "article_id" : "theninimayilum",
+    "article_id" : "kabilar_kurinchippaattu",
     "author_ids" : [
-      "bmjdhyriam"
+      "kabilar"
     ],
     "localized_titles" : {
-      "en" : "Theninimayilum",
-      "ta" : "தேன் இனிமையிலும்"
+      "en" : "Kurinchi Paattu",
+      "ta" : "குறிஞ்சிப்பாட்டு"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/theninimayilum.txt"
+      "ta" : "v1/data/sarticles_000/ta/kabilar_kurinchippaattu.txt"
+    }
+  },
+  {
+    "article_id" : "kanagathaaraa_sthothram",
+    "author_ids" : [
+      "aadhisankarar"
+    ],
+    "localized_titles" : {
+      "en" : "Kanakathara Sthothram",
+      "ta" : "கனகதாரா ஸ்தோத்திரம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/kanagathaaraa_sthothram.txt"
+    }
+  },
+  {
+    "article_id" : "kanivudan_mozhi",
+    "author_ids" : [
+      "kadayanallur_muhammed_kaasim"
+    ],
+    "localized_titles" : {
+      "en" : "Kanivudan Mozhi",
+      "ta" : "கனிவுடன் மொழிந்திடுவோம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/kanivudan_mozhi.txt"
+    }
+  },
+  {
+    "article_id" : "kanthar_sasti_kavasam",
+    "author_ids" : [
+      "devaraja_swamigal"
+    ],
+    "localized_titles" : {
+      "en" : "Skandha Sashti Kavasham",
+      "ta" : "ஸ்கந்த சஷ்டி கவசம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/kanthar_sasti_kavasam.txt"
+    }
+  },
+  {
+    "article_id" : "kind_to_women",
+    "author_ids" : [
+      "yogalakshmi_eswaran"
+    ],
+    "localized_titles" : {
+      "en" : "Be Kind to Women"
+    },
+    "txt_uri_records" : {
+      "en" : "v1/data/sarticles_000/en/kind_to_women.txt"
+    }
+  },
+  {
+    "article_id" : "kodukkiren",
+    "author_ids" : [
+      "kavikko_abdul_rahman"
+    ],
+    "localized_titles" : {
+      "en" : "Kodukkiren",
+      "ta" : "கொடுக்கிறேன்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/kodukkiren.txt"
+    }
+  },
+  {
+    "article_id" : "kolaru_pathippagam",
+    "author_ids" : [
+      "sampanthar"
+    ],
+    "localized_titles" : {
+      "en" : "Kolaru-Pathippagam",
+      "ta" : "கோளறு திருப்பதிகம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/kolaru_pathippagam.txt"
     }
   },
   {
@@ -701,16 +350,68 @@
     }
   },
   {
-    "article_id" : "sai_dhoop_aarti",
+    "article_id" : "lalitha_navaraththina_maalai",
     "author_ids" : [
-      "unidentified"
+      "agasthia"
     ],
     "localized_titles" : {
-      "en" : "Sai Baba Evening Aarti",
-      "ta" : "சாய் பாபா தூப ஆரத்தி"
+      "en" : "Lalitha Navratna Maalai",
+      "ta" : "ஸ்ரீ லலிதா நவரத்தின மாலை"
     },
     "txt_uri_records" : {
-      "en" : "v1/data/sarticles_000/en/sai_dhoop_aarti.txt"
+      "ta" : "v1/data/sarticles_000/ta/lalitha_navaraththina_maalai.txt"
+    }
+  },
+  {
+    "article_id" : "lingashtakam",
+    "author_ids" : [
+      "aadhisankarar"
+    ],
+    "localized_titles" : {
+      "en" : "Lingashtakam",
+      "ta" : "லிங்காஷ்டகம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/lingashtakam.txt"
+    }
+  },
+  {
+    "article_id" : "maanukku",
+    "author_ids" : [
+      "umaruppulavar"
+    ],
+    "localized_titles" : {
+      "en" : "Maanukku",
+      "ta" : "மானுக்குப் பிணை நின்ற படலம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/maanukku.txt"
+    }
+  },
+  {
+    "article_id" : "mahisaasura_marthini",
+    "author_ids" : [
+      "aadhisankarar"
+    ],
+    "localized_titles" : {
+      "en" : "Mahisasura Mardhini",
+      "ta" : "மகிஷாசுரமர்த்தினி ஸ்லோகம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/mahisaasura_marthini.txt"
+    }
+  },
+  {
+    "article_id" : "mullaippaattu",
+    "author_ids" : [
+      "namboothanaar"
+    ],
+    "localized_titles" : {
+      "en" : "Mullai Paattu",
+      "ta" : "முல்லைப்பாட்டு"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/mullaippaattu.txt"
     }
   },
   {
@@ -727,6 +428,448 @@
     }
   },
   {
+    "article_id" : "navagraha_paadalkal",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Navagraha Paadalkal",
+      "ta" : "நவகிரகப் பாடல்கள்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/navagraha_paadalkal.txt"
+    }
+  },
+  {
+    "article_id" : "nayagam_oru_kaaviyam_extract_1",
+    "author_ids" : [
+      "mmehta"
+    ],
+    "localized_titles" : {
+      "en" : "Naayagam Oru Kaaviyam Extract 1",
+      "ta" : "நாயகம் ஒரு காவியம் - சில வரிகள்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/nayagam_oru_kaaviyam_extract_1.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_alla",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "paarathiyaar_alla",
+      "ta" : "அல்லா"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_alla.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_annaiyai_venduthal",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Annaiyai Venduthal",
+      "ta" : "எண்ணிய முடிதல் வேண்டும்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_annaiyai_venduthal.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_jesus",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Eesan Vanthu",
+      "ta" : "ஈசன் வந்து"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_jesus.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_kottu_murase",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Kottu Murase",
+      "ta" : "கொட்டு முரசே"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_kottu_murase.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_odi_vilaiyaadu",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Odi Vilaiyaadu",
+      "ta" : "ஓடி விளையாடு"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_odi_vilaiyaadu.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_omsakthi",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Om Sakthi Om Sakthi Om",
+      "ta" : "ஓம்சக்தி ஓம்சக்தி ஓம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_omsakthi.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_senthamilnaadenumpothinile",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Senthamil Naaden Unnethil",
+      "ta" : "செந்தமிழ்நாடு எனும் போதினிலே"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_senthamilnaadenumpothinile.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_vandhemaatharam",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Vandhe Maatharam",
+      "ta" : "வந்தேமாதரம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_vandhemaatharam.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_viduthalaividuthalai",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Viduthalai viduthalai",
+      "ta" : "விடுதலை விடுதலை"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_viduthalaividuthalai.txt"
+    }
+  },
+  {
+    "article_id" : "paarathiyaar_vinnummannum",
+    "author_ids" : [
+      "paarathiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Vinnum Mannum",
+      "ta" : "விண்ணும் மண்ணும்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/paarathiyaar_vinnummannum.txt"
+    }
+  },
+  {
+    "article_id" : "pallaandu",
+    "author_ids" : [
+      "periyaalwar"
+    ],
+    "localized_titles" : {
+      "en" : "Pallaandu",
+      "ta" : "திருப்பல்லாண்டு"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/pallaandu.txt"
+    }
+  },
+  {
+    "article_id" : "pallikattu_valinadai",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Pallikattu Valinadai",
+      "ta" : "சாமியே - ஐயப்போ"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/pallikattu_valinadai.txt"
+    }
+  },
+  {
+    "article_id" : "prathyangaraa_108_potri",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Prathyangaraa 108 Potri",
+      "ta" : ""
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/prathyangaraa_108_potri.txt"
+    }
+  },
+  {
+    "article_id" : "raahukaala_durga_ashtagam",
+    "author_ids" : [
+      "dhurkkai_siththar"
+    ],
+    "localized_titles" : {
+      "en" : "Rahu Kaala Durga Ashtagam",
+      "ta" : "ராகுகால துர்க்கை அம்மனின் அஷ்டகம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/raahukaala_durga_ashtagam.txt"
+    }
+  },
+  {
+    "article_id" : "raksharaksha",
+    "author_ids" : [
+      "kalpanaa_dhaasan"
+    ],
+    "localized_titles" : {
+      "en" : "Raksha Raksha Jagan Maathaa",
+      "ta" : "ரக்க்ஷ ரக்க்ஷ"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/raksharaksha.txt"
+    }
+  },
+  {
+    "article_id" : "sai_chalisa",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Sai Baba Chalisa",
+      "ta" : "சாய் பாபா சாலிசா"
+    },
+    "txt_uri_records" : {
+      "en" : "v1/data/sarticles_000/en/sai_chalisa.txt"
+    }
+  },
+  {
+    "article_id" : "sai_dhoop_aarti",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Sai Baba Evening Aarti",
+      "ta" : "சாய் பாபா தூப ஆரத்தி"
+    },
+    "txt_uri_records" : {
+      "en" : "v1/data/sarticles_000/en/sai_dhoop_aarti.txt"
+    }
+  },
+  {
+    "article_id" : "sakalakalaavalli_maalai",
+    "author_ids" : [
+      "kumaraguruparar"
+    ],
+    "localized_titles" : {
+      "en" : "Sakalakalaavalli Maalai",
+      "ta" : "சகலகலாவல்லி மாலை"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/sakalakalaavalli_maalai.txt"
+    }
+  },
+  {
+    "article_id" : "saraswathi_anthaathi",
+    "author_ids" : [
+      "kambar"
+    ],
+    "localized_titles" : {
+      "en" : "Saraswathi Anthaathi",
+      "ta" : "சரஸ்வதி அந்தாதி"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/saraswathi_anthaathi.txt"
+    }
+  },
+  {
+    "article_id" : "saththaai_nishkalamaai",
+    "author_ids" : [
+      "krishnapillai"
+    ],
+    "localized_titles" : {
+      "en" : "Saththai Nishkalamaai",
+      "ta" : "சத்தாய் நிஷ்களமாய்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/saththaai_nishkalamaai.txt"
+    }
+  },
+  {
+    "article_id" : "simmaanthu",
+    "author_ids" : [
+      "sundharar"
+    ],
+    "localized_titles" : {
+      "en" : "Simmaanthu",
+      "ta" : "சிம்மாந்து"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/simmaanthu.txt"
+    }
+  },
+  {
+    "article_id" : "sinthaamal_arulvaai",
+    "author_ids" : [
+      "pmkamaal"
+    ],
+    "localized_titles" : {
+      "en" : "Sinthaamal Arulvaai",
+      "ta" : "சிந்தாமல் அருள்புரிவாய்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/sinthaamal_arulvaai.txt"
+    }
+  },
+  {
+    "article_id" : "sivapuraanam_thiruvaasagam",
+    "author_ids" : [
+      "maanicka_vaasagar"
+    ],
+    "localized_titles" : {
+      "en" : "Sivapuraanam(Thiruvaasagam)",
+      "ta" : "சிவபுராணம் (திருவாசகம்)"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/sivapuraanam_thiruvaasagam.txt"
+    }
+  },
+  {
+    "article_id" : "sivavaakkiyam_part_1",
+    "author_ids" : [
+      "sivavaakkiyar"
+    ],
+    "localized_titles" : {
+      "en" : "Sivavaakkiyam 1-150",
+      "ta" : "சிவவாக்கியம் 1-150"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/sivavaakkiyam_part_1.txt"
+    }
+  },
+  {
+    "article_id" : "sivavaakkiyam_part_2",
+    "author_ids" : [
+      "sivavaakkiyar"
+    ],
+    "localized_titles" : {
+      "en" : "Sivavaakkiyam 151-300",
+      "ta" : "சிவவாக்கியம் 151-300"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/sivavaakkiyam_part_2.txt"
+    }
+  },
+  {
+    "article_id" : "sivavaakkiyam_part_3",
+    "author_ids" : [
+      "sivavaakkiyar"
+    ],
+    "localized_titles" : {
+      "en" : "Sivavaakkiyam 301-450",
+      "ta" : "சிவவாக்கியம் 301-450"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/sivavaakkiyam_part_3.txt"
+    }
+  },
+  {
+    "article_id" : "soolai_theertha_pathigam",
+    "author_ids" : [
+      "appar"
+    ],
+    "localized_titles" : {
+      "en" : "Soolai Theertha Pathigam",
+      "ta" : "தேவாரம்-சூலை நோய் தீர்த்த போது அருளிய திருப்பதிகம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/soolai_theertha_pathigam.txt"
+    }
+  },
+  {
+    "article_id" : "sudharsana_ashtagam",
+    "author_ids" : [
+      "desigan_nigamantha"
+    ],
+    "localized_titles" : {
+      "en" : "Sudharshana Ashtagam",
+      "ta" : "சுதர்சனர் அஷ்டகம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/sudharsana_ashtagam.txt"
+    }
+  },
+  {
+    "article_id" : "thaiyendru",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Thaiyendru",
+      "ta" : "தாயென்று சொல்ல யாருண்டு"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/thaiyendru.txt"
+    }
+  },
+  {
+    "article_id" : "theninimayilum",
+    "author_ids" : [
+      "bmjdhyriam"
+    ],
+    "localized_titles" : {
+      "en" : "Theninimayilum",
+      "ta" : "தேன் இனிமையிலும்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/theninimayilum.txt"
+    }
+  },
+  {
+    "article_id" : "thiruppaavai",
+    "author_ids" : [
+      "aandaal"
+    ],
+    "localized_titles" : {
+      "en" : "Thiruppaavai",
+      "ta" : "திருப்பாவை"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/thiruppaavai.txt"
+    }
+  },
+  {
+    "article_id" : "thiruppugal",
+    "author_ids" : [
+      "arunagirinaathar"
+    ],
+    "localized_titles" : {
+      "en" : "Thirupugazh",
+      "ta" : "திருப்புகழ்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/thiruppugal.txt"
+    }
+  },
+  {
     "article_id" : "thiruvempaavai",
     "author_ids" : [
       "maanicka_vaasagar"
@@ -740,16 +883,107 @@
     }
   },
   {
-    "article_id" : "anbe_prathanam",
+    "article_id" : "thodudaya_seviyan",
     "author_ids" : [
-      "gnanamani_cp"
+      "sampanthar"
     ],
     "localized_titles" : {
-      "en" : "Anbe Prathanam",
-      "ta" : "அன்பே பிரதானம் சகோதர"
+      "en" : "Thodudaya Seviyan",
+      "ta" : "தோடுடைய செவியன்"
     },
     "txt_uri_records" : {
-      "ta" : "v1/data/sarticles_000/ta/anbe_prathanam.txt"
+      "ta" : "v1/data/sarticles_000/ta/thodudaya_seviyan.txt"
+    }
+  },
+  {
+    "article_id" : "varaahi_amman_thuthi",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "Varaahi Amman Thuthi",
+      "ta" : "ஸ்ரீ வாராஹி அம்மன் துதி"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/varaahi_amman_thuthi.txt"
+    }
+  },
+  {
+    "article_id" : "varaahi_maalai",
+    "author_ids" : [
+      "veerai_kaviraasa_pandithar"
+    ],
+    "localized_titles" : {
+      "en" : "Varaahi Maalai",
+      "ta" : "ஸ்ரீ வாராஹி மாலை"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/varaahi_maalai.txt"
+    }
+  },
+  {
+    "article_id" : "varalakshmi_108_potri",
+    "author_ids" : [
+      "unidentified"
+    ],
+    "localized_titles" : {
+      "en" : "108 Varalakshmi Amman Potri",
+      "ta" : "வரலட்சுமி 108 போற்றி"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/varalakshmi_108_potri.txt"
+    }
+  },
+  {
+    "article_id" : "velankanni_suprabat",
+    "author_ids" : [
+      "kavitha_remi"
+    ],
+    "localized_titles" : {
+      "en" : "Velankanni Suprabat",
+      "ta" : "வேளாங்கண்ணி மாதா சுப்ரபாதம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/velankanni_suprabat.txt"
+    }
+  },
+  {
+    "article_id" : "vinaayagar_agaval",
+    "author_ids" : [
+      "avvaiyaar"
+    ],
+    "localized_titles" : {
+      "en" : "Vinaayagar Agaval",
+      "ta" : "விநாயகர் அகவல்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/vinaayagar_agaval.txt"
+    }
+  },
+  {
+    "article_id" : "vinthai",
+    "author_ids" : [
+      "santiago_vethamuthu"
+    ],
+    "localized_titles" : {
+      "en" : "Vinthai  kiristhaasu  Raja",
+      "ta" : "விந்தை கிறிஸ்தேசு ராஜா!"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/vinthai.txt"
+    }
+  },
+  {
+    "article_id" : "vishnu_sahasranaamam",
+    "author_ids" : [
+      "vedhavyas"
+    ],
+    "localized_titles" : {
+      "en" : "Vishnu-Sahasranaamam",
+      "ta" : "விஷ்ணு ஸஹஸ்ரநாமம்"
+    },
+    "txt_uri_records" : {
+      "ta" : "v1/data/sarticles_000/ta/vishnu_sahasranaamam.txt"
     }
   }
 ]
